@@ -1,1 +1,1 @@
-# wodmaker
+# WOD-maker
